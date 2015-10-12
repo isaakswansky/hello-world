@@ -1,2 +1,4 @@
 # hello-world
-this is my first test repository
+Ahoi!
+
+My name is Raoul and I am new to this.
